@@ -12,6 +12,9 @@ repositories {
 }
 
 dependencies {
+    implementation("junit:junit:3.8.2")
+    implementation("junit:junit:4.13.1")
+    implementation("junit:junit:4.13.1")
     testImplementation(kotlin("test"))
 }
 
